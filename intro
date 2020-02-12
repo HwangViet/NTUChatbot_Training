@@ -1,0 +1,5 @@
+This is the repo that documents the building of the first Chatbot for Nanyang Technical University, Singapore. 
+
+Aiming for a codeless structure, I had to rely heavily on middleware integration. However, to automate the content migration, python was used 
+to extract, modify and mass-create the internal database of the chat. 
+
