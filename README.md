@@ -1,4 +1,4 @@
-# NTUChatbot_Training
+# NTU Chatbot_Training
 
 #This repo contains the manuals that I wrote for NTU when I was developing the chatbot for the University when I was in Year 1. 
 There are 3 manuals:
